@@ -2,8 +2,10 @@
 >>Purpose
 
 - Centralise current software project documentation
-- Unified and thurough documentation that is often lacking in personal projects
-- More
+- Unified and thourough documentation that is often lacking in my personal projects
+- More projects will get added in over time
+- Learn and become familiar with Docsify
+
 
 [What is Greenhall?](/about)
 [TreescoBot](/treescobot/)
