@@ -10,7 +10,9 @@
 [What is Greenhall?](/about)
 [TreescoBot](/treescobot/)
 [OpenHAB](/openhabian/)
-[AG-1](#)
+[AG-1](/AG-1/)
+[ProjectFediverse](/projectfediverse/)
+[Random](/rnd/)
 
 <!-- background image
 ![](_media/bg.png) -->
